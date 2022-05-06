@@ -9,3 +9,5 @@ print("this is a bug fixed in hotfix branch")
 print("this is a bug fixed in hotfix branch 2")
 
 print("this is a bug fixed in hotfix branch 3")
+
+print("this is a bug fixed in hotfix branch 4")
